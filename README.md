@@ -7,5 +7,9 @@ To use these scripts, you will need to have [AutoHotkey](https://www.autohotkey.
 
 ### making the script start when Windows is on 
 
+how to find Startup folder!
+Windows logo key + R, type shell:startup, then select OK. This opens the Startup folder.
+
+
 put the scripts in the startup file location , for example :
 C:\Users\Alon\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
